@@ -1,10 +1,10 @@
 # Csharp-Obfuscation-Changelogs
 
-Web: https://obfus.org/
+**https://obfus.org/**
 
 
 
-C# Obfuscation is a process of making code difficult to understand for humans. In this blog post, we will discuss the reasons behind why developers obfuscate their code and the different approaches that can be taken to achieve this.
+C# Obfuscation is a process of making code difficult to understand for humans. In this blog post, we will discuss the reasons behind why developers obfuscate their code and the different approaches that can be taken to achieve this. Why you need a Virtualization solution for your business?
 
 **Advantages of Obfuscation**
 
